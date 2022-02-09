@@ -150,7 +150,7 @@ div>h2 {
 
 .image1gallery:hover .gallery-img {
     height: 100%;
-    transition: duration: 5s;
+    transition: 5s;
     z-index: -1;
     opacity: 0.3;
 }
